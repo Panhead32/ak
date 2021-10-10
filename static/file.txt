@@ -1,0 +1,26 @@
+Ivanov Ivan Ivanovish
+male
+4
+1.600000
+35.500000
+
+painting
+Ukrain, Kyiv city, Janhela 18/1
++38000000000
+25.04.2016
+Code: 123434234;Given by: 1343234;ExpiresAt:12.02.2050
+1
+Everything complicated
+sf d f
+female
+12
+12.000000
+12.000000
+12
+12
+12
+12
+12
+12
+2
+12
